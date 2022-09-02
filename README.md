@@ -1,1 +1,1 @@
-# India-Flag-by-python
+# Indian-Flag-by-python
